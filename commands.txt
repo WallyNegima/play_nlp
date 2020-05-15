@@ -1,0 +1,15 @@
+commands
+
+## brat
+python2.7 /Users/eiaidashintarou/works/study/python_nlp/packages/brat-v1.3_Crunchy_Frog/standalone.py
+
+## solr
+/Users/eiaidashintarou/works/study/python_nlp/solr-7.7.2/bin/solr start
+/Users/eiaidashintarou/works/study/python_nlp/solr-7.7.2/bin/solr stop
+/Users/eiaidashintarou/works/study/python_nlp/solr-7.7.2/bin/solr status
+
+/Users/eiaidashintarou/works/study/python_nlp/solr-7.7.2/bin/solr create -c anno
+
+
+# chainer
+export PYTHONPATH=/Users/eiaidashintarou/works/study/chainer/examples/text_classification/
