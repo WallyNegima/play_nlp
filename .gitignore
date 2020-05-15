@@ -1,0 +1,7 @@
+__pycache__
+packages/
+solr-7.7.2/
+data/
+result/
+.DS_Store
+.ipynb_checkpoints/
